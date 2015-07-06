@@ -6,6 +6,6 @@ Estas se dividen en dos entregas:
 - Entrega IV: cónicas y cuádricas.
 
 Pablo Rodríguez Robles.
-Grado en Ingeniería Aeroespacial. Universidad de León.
+Profesor: De Francisco Iribarren, Araceli. Grado en Ingeniería Aeroespacial, Universidad de León.
 
 Diciembre de 2014.
